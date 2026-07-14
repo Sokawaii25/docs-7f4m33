@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-yxh2id.epishort.online/sitemap.xml
